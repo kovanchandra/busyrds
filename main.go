@@ -95,7 +95,7 @@ func main() {
 		log.Println("RDS Failover Simulator")
 		failoverSimulator()
 	case 99:
-		log.Println("Create DB & Table")
+		log.Println("Create Table")
 		dbInitialization()
 	default:
 		fmt.Println("Unknown usecase selected.")
@@ -132,7 +132,7 @@ func failoverSimulator() {
 }
 
 func dbInitialization() {
-	createDatabase(dbPool, "busy_db")
+	// createDatabase(dbPool, "busy_db")
 	createTableIfNotExists(dbPool)
 }
 
