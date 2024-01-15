@@ -1,0 +1,9 @@
+{
+    "database": {
+        "dsn": "user=postgres password=postgres dbname=postgres host=cluster-bg-ff-2.cluster-cdxkml56ijtc.ap-southeast-1.rds.amazonaws.com port=5432 sslmode=disable"
+    },
+    "test_run": 100000,
+    "rps": 50,
+    "max_retry": 60,
+    "delay_retry": 1
+}

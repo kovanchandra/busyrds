@@ -1,0 +1,6 @@
+github.com/bxcodec/faker/v3 v3.8.1 h1:qO/Xq19V6uHt2xujwpaetgKhraGCapqY2CRWGD/SqcM=
+github.com/bxcodec/faker/v3 v3.8.1/go.mod h1:DdSDccxF5msjFo5aO4vrobRQ8nIApg8kq3QWPEQD6+o=
+github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
+github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=

@@ -1,0 +1,9 @@
+{
+    "database": {
+        "dsn": "user=postgres password=pwd dbname=postgres host=xx port=5432 sslmode=disable"
+    },
+    "test_run": 25000,
+    "rps": 50,
+    "max_retry": 60,
+    "delay_retry": 1
+}
